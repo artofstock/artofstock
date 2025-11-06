@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @artofstock
-- 👀 I’m interested in stocks and AI.
-- 🌱 I am currently studying machine learning, and I want to build an automated stock trading system using machine learning that I studied in the future.
-- 📫 Please email yongsub@gmail.com for instructions on how to contact me.          
-
+👋 Hi, I’m @artofstock
+👀 I’m passionate about the stock market, quantitative research, and AI-driven trading.
+🌱 I’m currently studying machine learning and exploring ways to build a fully automated stock trading system powered by the models I develop.
+📫 For inquiries or collaboration, feel free to reach out at yongsub@gmail.com.
 <!---
 artofstock/artofstock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
